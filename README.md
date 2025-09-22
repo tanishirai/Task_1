@@ -18,7 +18,6 @@ This project involves cleaning and preparing a dataset using Microsoft Excel. Th
 - Inserted new columns next to text fields such as gender and country names.
 - Applied formulas:
   - `=UPPER(cell)` to convert text to uppercase,
-  - `=LOWER(cell)` to convert to lowercase,
   - `=PROPER(cell)` to capitalize the first letter of each word.
 - Used **Paste Special > Values** to replace formulas with text.
 - Used **Find & Replace** to correct specific text values (e.g., replacing "usa" with "USA").
@@ -42,7 +41,6 @@ This project involves cleaning and preparing a dataset using Microsoft Excel. Th
 
 - All data cleaning was done using Excel built-in features and formulas.
 - No external software or code was used.
-- Screenshots of key steps and dataset can be found in the `screenshots` folder.
 
 ---
 
